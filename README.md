@@ -1,50 +1,63 @@
 # Hi there 👋
 
-Senior Software Developer working at [SEEK](https://www.seek.com.au/).
+**Senior Software Developer** · 10+ Years of Experience · Full-Stack · Cloud · AI/LLM
 
-You can find me on [![LinkedIn][1.1]][1].
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hket89/)
+[![SEEK](https://img.shields.io/badge/Currently%20at-SEEK-FF6F1E?style=flat)](https://www.seek.com.au/)
 
-[1.1]: https://user-images.githubusercontent.com/4176518/108592315-4688c300-73a8-11eb-863b-c83bd95b7437.png (LinkedIn icon)
+---
 
-[1]: https://www.linkedin.com/in/hket89/
+## About Me
 
-# Technologies & Tools 🔧 
+I'm a full-stack software developer with over a decade of experience delivering systems at scale — from high-traffic consumer platforms to AI-powered applications. I've worked across the stack, spanning frontend, backend, cloud infrastructure, mobile, and most recently LLM integrations.
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-.Net-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logoColor=white&color=2bbc8a)
+---
 
-# GitHub Stats
+## Highlights
 
-<a href="https://github.com/hket89/hket89">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hket89&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+| | |
+|---|---|
+| **Frontend** | Built and maintained React frontends serving millions of users |
+| **Backend** | Delivered REST APIs across Node.js, Laravel, Spring Boot, and .NET |
+| **AWS** | Deployed containerised REST APIs to ECS; designed event-driven pipelines with SNS, SQS & Lambda; managed data with DynamoDB & RDS; CDN delivery via CloudFront & S3 |
+| **AI / LLM** | Built LLM-powered applications with LangChain & LangGraph, RAG architecture, vector databases, WhatsApp integration, and Auth0 (OAuth2/JWT) |
 
-<a href="https://github.com/hket89/hket89">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hket89&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+---
 
-<!--
-**hket89/hket89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+**Frontend**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**AI / LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Architecture-FF6F1E?style=flat)
+
+---
+
+## GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hket89&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/hket89)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hket89&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/hket89)
